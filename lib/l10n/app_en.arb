@@ -1,0 +1,19 @@
+{
+  "language": "English",
+  "@language": {
+    "description": "The current Language"
+  },
+  "splash":"Pokemon!",
+  "homepage": "Hello to your pokedex",
+  "search": "Search Pokemon",
+  "empty": "Let's catch some pokemon",
+  "exist": "Pokemon already in your pokedex",
+  "errorTitle": "Error",
+  "errorButton": "OK",
+  "exception": "Something wrong happen, try later",
+  "submit": "submit",
+  "cancel": "Cancel",
+  "name": "Name",
+  "nickname": "Nickname",
+  "nameEmpty":"This field can't be empty"
+}
